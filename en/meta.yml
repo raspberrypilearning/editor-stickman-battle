@@ -5,9 +5,9 @@ listed: false
 pdf: false
 steps:
   - title: Make a punch block
+  - title: Animate the punch
     completion:
       - engaged
-  - title: Animate the punch
   - title: Trigger the punch
   - title: Animate a kick
   - title: Animate a sword slash
