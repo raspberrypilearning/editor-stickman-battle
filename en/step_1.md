@@ -1,45 +1,27 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+## Make a punch block
 
-A brief description - one or two sentences. 
+The starter project is open beside these instructions, with the fighter's animation costumes and sounds ready to use.
 
---- print-only ---
+Click on the `player` sprite.
 
-![ALT TEXT](images/IMAGE.png)
+![player sprite](images/player.png)
 
---- /print-only ---
+Click the `Costumes`{:class="block3looks"} tab and find `punch_01` to `punch_06`. These costumes make up one punch.
 
---- no-print ---
+![The Costumes tab at the top-left of the editor](images/costume_tab.png)
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
+Go back to the `Code`{:class="block3control"} tab. Open `My Blocks`{:class="block3custom"} and click **Make a Block**.
 
---- /no-print ---
+![The Make a Block button in the My Blocks menu](images/make-a-block.png)
 
---- no-print ---
+Name the block `punch`{:class="block3custom"} and click **OK**.
 
-Video embed
+![Naming the new block punch in the Make a Block dialog](images/define-punch.png)
 
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
+A `define punch`{:class="block3custom"} block appears in the Code area.
 
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
+![The define punch block in the Code area](images/punch-block.png)
 
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
-</div>
+A block you make yourself can run a group of blocks with one instruction. This is called **abstraction**.
 
---- /no-print ---
-
-### You will need:
-- a
-- b
-- c
+You'll add the punch animation to this block next.
