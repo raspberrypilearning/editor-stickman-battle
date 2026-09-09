@@ -2,6 +2,8 @@
 
 A clone is a working copy of a sprite that runs its own scripts.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![enemy sprite](images/enemy-labelled.png)
 
 Inside the spawning loop, add an `if then else`{:class="block3control"} block.
@@ -22,5 +24,7 @@ end
 wait (1) seconds
 end
 ```
+
+## Now run your code
 
 The clones are still hidden and stationary. You'll make them chase the fighter next.

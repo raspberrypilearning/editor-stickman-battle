@@ -2,6 +2,8 @@
 
 Stop the fighting moves from running before the game starts.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 In the `when space key pressed`{:class="block3events"} script, place `punch`{:class="block3custom"} inside an `if then`{:class="block3control"} block that checks whether `playing`{:class="block3variables"} is `1`.

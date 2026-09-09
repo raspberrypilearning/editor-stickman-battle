@@ -2,6 +2,8 @@
 
 Score one point for every second the fighter survives and remember the best run.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![stage](images/select-stage-tokyo.png)
 
 Make two variables, `score`{:class="block3variables"} and `high score`{:class="block3variables"}, both **For all sprites**. Tick both checkboxes so the player can see them.

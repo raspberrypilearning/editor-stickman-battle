@@ -2,6 +2,8 @@
 
 Make the fighter walk in the other direction.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 Duplicate the `when right arrow key pressed`{:class="block3events"} script.

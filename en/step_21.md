@@ -2,6 +2,8 @@
 
 Make an enemy damage the fighter when it reaches them.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![enemy sprite](images/enemy-labelled.png)
 
 Click the `Sounds`{:class="block3sound"} tab and add a bite sound and a knock-back sound. The example uses **Bite** and **Boing**.

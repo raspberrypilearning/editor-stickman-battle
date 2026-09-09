@@ -2,6 +2,8 @@
 
 Give the fighter a short introduction, then start the game.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 At the bottom of the setup script, add a pause and two lines for your fighter to shout.

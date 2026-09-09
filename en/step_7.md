@@ -2,6 +2,8 @@
 
 Add a roll that moves the fighter quickly out of danger.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 Make a `roll`{:class="block3custom"} block. Add a sound, then switch through the five `dash_roll` costumes.

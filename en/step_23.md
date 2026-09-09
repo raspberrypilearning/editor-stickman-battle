@@ -2,6 +2,8 @@
 
 Make a strike defeat an enemy before it can bite.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![enemy sprite](images/enemy-labelled.png)
 
 Click on the `enemy` sprite and find `if touching player`{:class="block3control"}.

@@ -2,6 +2,8 @@
 
 Watch the fighter's health and end the battle when it runs out.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 On the `player` sprite, add another green flag script.

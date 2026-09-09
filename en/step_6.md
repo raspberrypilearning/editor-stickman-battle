@@ -2,6 +2,8 @@
 
 Make a `jump`{:class="block3custom"} block and duplicate the animation blocks again.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 Use the seven `jump` costumes.

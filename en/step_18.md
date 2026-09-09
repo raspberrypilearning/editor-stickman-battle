@@ -2,6 +2,8 @@
 
 Start the enemy wave and make each clone move towards the fighter.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ## Step 1
 
 Click on the `player` sprite.

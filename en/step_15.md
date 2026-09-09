@@ -2,6 +2,8 @@
 
 Add an enemy that will appear from both sides of the Stage.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 Hover over **Choose a Sprite** and choose an enemy with several costumes so it can animate as it moves. The example uses a dinosaur.
 
 ![The Choose a Sprite button](images/sprite-choose.png)
@@ -19,6 +21,8 @@ go to x: (280) y: (0)
 set rotation style [left-right v]
 set size to (70) %
 ```
+
+## Now run your code
 
 Change the size if your enemy looks too big or too small.
 

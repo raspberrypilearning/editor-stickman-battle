@@ -2,7 +2,11 @@
 
 You've finished Stickman battle — now make it your own!
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 You don't have to try every idea. Pick the changes that sound the most fun.
+
+## Step 1
 
 ### Change the difficulty
 
@@ -22,6 +26,8 @@ Tick the variable, then right-click its display on the Stage and choose **slider
 
 Play-test different values and choose one that feels challenging but fair.
 
+## Step 2
+
 ### Build a two-player battle
 
 Turn Stickman battle into a game for two players, with one fighter each.
@@ -34,6 +40,8 @@ Turn Stickman battle into a game for two players, with one fighter each.
 - Add a way for one fighter to win when the other's health reaches zero.
 
 ![Duplicating a sprite from its thumbnail](images/sprite-duplicate.png)
+
+## Now run your code
 
 Change one thing at a time and test after every change.
 

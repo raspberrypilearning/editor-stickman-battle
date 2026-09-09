@@ -2,6 +2,8 @@
 
 Make a `sword`{:class="block3custom"} block and duplicate the animation blocks again.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 Change them to the eight `sword_slash` costumes. End on `sword_slash_07` to bring the blade back.

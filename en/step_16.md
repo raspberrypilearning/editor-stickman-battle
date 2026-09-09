@@ -2,6 +2,8 @@
 
 Randomly choose whether each enemy will come from the left or the right.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![enemy sprite](images/enemy-labelled.png)
 
 Make a variable called `side`{:class="block3variables"}, **For all sprites**. Untick its checkbox so it does not appear on the Stage.
@@ -19,5 +21,7 @@ set [side v] to (pick random (1) to (2))
 wait (1) seconds
 end
 ```
+
+## Now run your code
 
 You'll use the number in `side`{:class="block3variables"} to place a clone next.

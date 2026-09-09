@@ -3,12 +3,13 @@ hero_image: images/banner.png
 description: Make a side-on fighting game where a stickman hero battles waves of enemies, then turn it into a two-player fight.
 listed: false
 pdf: false
+landing: true
 steps:
   - title: Make a punch block
   - title: Animate the punch
+  - title: Trigger the punch
     completion:
       - engaged
-  - title: Trigger the punch
   - title: Animate a kick
   - title: Animate a sword slash
   - title: Animate a jump
@@ -31,11 +32,11 @@ steps:
   - title: Knock enemies away
   - title: Make a game over animation
   - title: End the game
+    completion:
+      - internal
   - title: Keep score
   - title: Set the scene and save
     completion:
-      - internal
+      - external
   - title: Make it your own
     challenge: true
-    completion:
-      - external

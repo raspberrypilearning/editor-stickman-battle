@@ -2,6 +2,8 @@
 
 Give the fighter an animation to use while it waits for the player's next move.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 Add a `when I receive ()`{:class="block3events"} block. Make a new message called `ready`.
@@ -23,5 +25,7 @@ switch costume to (idle_04 v)
 wait (0.02) seconds
 end
 ```
+
+## Now run your code
 
 The idle animation will start when another script broadcasts `ready`{:class="block3events"}.

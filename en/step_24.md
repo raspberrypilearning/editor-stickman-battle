@@ -2,6 +2,8 @@
 
 Animate the fighter's defeat when all its health is gone.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 On the `player` sprite, make a `game over`{:class="block3custom"} block.
@@ -22,5 +24,7 @@ wait (0.5) seconds
 say [GAME OVER] for (2) seconds
 stop [all v]
 ```
+
+## Now run your code
 
 You'll run this animation when health reaches zero.

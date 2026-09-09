@@ -2,6 +2,8 @@
 
 Build the kick quickly by copying the punch and changing the costumes.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 Make a new block called `kick`{:class="block3custom"}.

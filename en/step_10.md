@@ -2,6 +2,8 @@
 
 Set the fighter's costume, position, direction, and size at the start of every game.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 Make a variable called `playing`{:class="block3variables"}, **For all sprites**. Untick its checkbox so it does not appear on the Stage.
@@ -24,5 +26,7 @@ set size to (250) %
 ```
 
 The `set rotation style left-right`{:class="block3motion"} block lets the fighter face left or right without turning upside down.
+
+## Now run your code
 
 Change the size if your fighter looks too big or too small on the Stage.

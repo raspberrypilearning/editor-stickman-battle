@@ -2,6 +2,8 @@
 
 Start the idle animation again after each fighting move.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 Add `broadcast ready`{:class="block3events"} to the end of `punch`{:class="block3custom"}.

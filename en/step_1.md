@@ -2,6 +2,8 @@
 
 The starter project is open beside these instructions, with the fighter's animation costumes and sounds ready to use.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 Click on the `player` sprite.
 
 ![player sprite](images/player.png)
@@ -17,6 +19,8 @@ Go back to the `Code`{:class="block3control"} tab. Open `My Blocks`{:class="bloc
 Name the block `punch`{:class="block3custom"} and click **OK**.
 
 ![Naming the new block punch in the Make a Block dialog](images/define-punch.png)
+
+## Now run your code
 
 A `define punch`{:class="block3custom"} block appears in the Code area.
 

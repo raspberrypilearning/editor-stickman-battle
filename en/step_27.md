@@ -2,6 +2,8 @@
 
 Finish your game by choosing how Tokyo looks.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![stage](images/select-stage-tokyo.png)
 
 Click on the `Stage`, then the `Backdrops`{:class="block3looks"} tab.

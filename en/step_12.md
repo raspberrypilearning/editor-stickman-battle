@@ -2,6 +2,8 @@
 
 Make the fighter walk right while cycling through its idle costumes.
 
+<h2 class="c-project-heading--explainer">What you need to do</h2>
+
 ![player sprite](images/player.png)
 
 Add a `when right arrow key pressed`{:class="block3events"} script.
