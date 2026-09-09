@@ -1,4 +1,4 @@
 name: "Stickman Battle starter"
 identifier: "editor-stickman-battle-starter"
-type: 'code_editor_scratch'
+type: 'scratch'
 build: true
